@@ -1,0 +1,44 @@
+SUCCESS_FIRST_ARG 	 First argument [ISEXIST]	 First letter is I
+
+ WAY TO SEARCH e:\PROG\LR1_U_TEST\genTests\GENERATE1.done.exe	
+ IS FILE EXIST? =>YES_FILE_IS_EXISTS
+______________________________________________________
+
+SUCCESS_FIRST_ARG 	 First argument [ISEXIST]	 First letter is I
+
+ WAY TO SEARCH e:\PROG\LR1_U_TEST\genTests\generate2.done.exe	
+ IS FILE EXIST? =>YES_FILE_IS_EXISTS
+______________________________________________________
+
+SUCCESS_FIRST_ARG 	 First argument [ISEXIST]	 First letter is I
+
+ WAY TO SEARCH e:\PROG\LR1_U_TEST\genTests\Generate3.done.exe	
+ IS FILE EXIST? =>YES_FILE_IS_EXISTS
+______________________________________________________
+
+SUCCESS_FIRST_ARG 	 First argument [ISEXIST]	 First letter is I
+
+ WAY TO SEARCH e:\PROG\LR1_U_TEST\genTests\CREATE1.done.exe	
+ IS FILE EXIST? =>YES_FILE_IS_EXISTS
+______________________________________________________
+
+SUCCESS_FIRST_ARG 	 First argument [ISEXIST]	 First letter is I
+
+ WAY TO SEARCH e:\PROG\LR1_U_TEST\genTests\create2.done.exe	
+ IS FILE EXIST? =>YES_FILE_IS_EXISTS
+______________________________________________________
+
+SUCCESS_FIRST_ARG 	 First argument [ISEXIST]	 First letter is I
+
+ WAY TO SEARCH e:\PROG\LR1_U_TEST\genTests\Create3.done.exe	
+ IS FILE EXIST? =>YES_FILE_IS_EXISTS
+______________________________________________________
+
+SUCCESS_FIRST_ARG 	 First argument [ISEXIST]	 First letter is I
+
+ WAY TO SEARCH e:\PROG\LR1_U_TEST\genTests\Create.FAULT.exe	
+ IS FILE EXIST? =>FILE_NOT_FOUND
+______________________________________________________
+
+______________________________________________________
+

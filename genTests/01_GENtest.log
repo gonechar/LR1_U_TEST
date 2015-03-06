@@ -1,0 +1,31 @@
+SUCCESS_FIRST_ARG 	 First argument is [GENERATE]	 First letter is G
+z)Successful
+______________________________________________________
+
+SUCCESS_FIRST_ARG 	 First argument is [generate]	 First letter is g
+z)Successful
+______________________________________________________
+
+SUCCESS_FIRST_ARG 	 First argument is [Generate]	 First letter is G
+z)Successful
+______________________________________________________
+
+SUCCESS_FIRST_ARG 	 First argument is [CREATE]	 First letter is C
+z)Successful
+______________________________________________________
+
+SUCCESS_FIRST_ARG 	 First argument is [create]	 First letter is c
+z)Successful
+______________________________________________________
+
+SUCCESS_FIRST_ARG 	 First argument is [Create]	 First letter is C
+z)Successful
+______________________________________________________
+
+FAULT_CMND_ARG 	 First argument is [GEN]	 First letter is G
+E)510 WRONG command was given
+______________________________________________________
+
+a)Not enough arguments
+______________________________________________________
+
