@@ -1,0 +1,31 @@
+SUCCESS_FIRST_ARG 	 First argument is [DELETE]	 First letter is D
+z)Successful
+______________________________________________________
+
+SUCCESS_FIRST_ARG 	 First argument is [delete]	 First letter is d
+z)Successful
+______________________________________________________
+
+SUCCESS_FIRST_ARG 	 First argument is [Delete]	 First letter is D
+z)Successful
+______________________________________________________
+
+SUCCESS_FIRST_ARG 	 First argument is [DEL]	 First letter is D
+z)Successful
+______________________________________________________
+
+SUCCESS_FIRST_ARG 	 First argument is [del]	 First letter is d
+z)Successful
+______________________________________________________
+
+SUCCESS_FIRST_ARG 	 First argument is [Del]	 First letter is D
+z)Successful
+______________________________________________________
+
+FAULT_CMND_ARG 	 First argument is [DELIM]	 First letter is D
+E)510 WRONG command was given
+______________________________________________________
+
+a)Not enough arguments
+______________________________________________________
+

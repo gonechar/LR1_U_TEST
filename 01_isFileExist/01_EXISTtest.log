@@ -1,44 +1,90 @@
 SUCCESS_FIRST_ARG 	 First argument [ISEXIST]	 First letter is I
 
  WAY TO SEARCH e:\PROG\LR1_U_TEST\genTests\GENERATE1.done.exe	
- IS FILE EXIST? =>YES_FILE_IS_EXISTS
+ IS FILE EXIST? =>  FILE_EXISTS
 ______________________________________________________
 
 SUCCESS_FIRST_ARG 	 First argument [ISEXIST]	 First letter is I
 
  WAY TO SEARCH e:\PROG\LR1_U_TEST\genTests\generate2.done.exe	
- IS FILE EXIST? =>YES_FILE_IS_EXISTS
+ IS FILE EXIST? =>  FILE_EXISTS
 ______________________________________________________
 
 SUCCESS_FIRST_ARG 	 First argument [ISEXIST]	 First letter is I
 
  WAY TO SEARCH e:\PROG\LR1_U_TEST\genTests\Generate3.done.exe	
- IS FILE EXIST? =>YES_FILE_IS_EXISTS
+ IS FILE EXIST? =>  FILE_EXISTS
 ______________________________________________________
 
 SUCCESS_FIRST_ARG 	 First argument [ISEXIST]	 First letter is I
 
  WAY TO SEARCH e:\PROG\LR1_U_TEST\genTests\CREATE1.done.exe	
- IS FILE EXIST? =>YES_FILE_IS_EXISTS
+ IS FILE EXIST? =>  FILE_EXISTS
 ______________________________________________________
 
 SUCCESS_FIRST_ARG 	 First argument [ISEXIST]	 First letter is I
 
  WAY TO SEARCH e:\PROG\LR1_U_TEST\genTests\create2.done.exe	
- IS FILE EXIST? =>YES_FILE_IS_EXISTS
+ IS FILE EXIST? =>  FILE_EXISTS
 ______________________________________________________
 
 SUCCESS_FIRST_ARG 	 First argument [ISEXIST]	 First letter is I
 
  WAY TO SEARCH e:\PROG\LR1_U_TEST\genTests\Create3.done.exe	
- IS FILE EXIST? =>YES_FILE_IS_EXISTS
+ IS FILE EXIST? =>  FILE_EXISTS
 ______________________________________________________
 
 SUCCESS_FIRST_ARG 	 First argument [ISEXIST]	 First letter is I
 
  WAY TO SEARCH e:\PROG\LR1_U_TEST\genTests\Create.FAULT.exe	
- IS FILE EXIST? =>FILE_NOT_FOUND
+ IS FILE EXIST? =>  FILE_NOT_FOUND
 ______________________________________________________
 
+______________________________________________________
+
+______________________________________________________
+
+______________________________________________________
+
+SUCCESS_FIRST_ARG 	 First argument [ISEXIST]	 First letter is I
+
+ WAY TO SEARCH e:\PROG\LR1_U_TEST\delTests\DEL.1.destroy.exe	
+ IS FILE EXIST? =>  FILE_NOT_FOUND
+______________________________________________________
+
+SUCCESS_FIRST_ARG 	 First argument [ISEXIST]	 First letter is I
+
+ WAY TO SEARCH e:\PROG\LR1_U_TEST\delTests\del.2.destroy.exe	
+ IS FILE EXIST? =>  FILE_NOT_FOUND
+______________________________________________________
+
+SUCCESS_FIRST_ARG 	 First argument [ISEXIST]	 First letter is I
+
+ WAY TO SEARCH e:\PROG\LR1_U_TEST\delTests\Del.3.destroy.exe	
+ IS FILE EXIST? =>  FILE_NOT_FOUND
+______________________________________________________
+
+SUCCESS_FIRST_ARG 	 First argument [ISEXIST]	 First letter is I
+
+ WAY TO SEARCH e:\PROG\LR1_U_TEST\delTests\DELETE.1.destroy.exe	
+ IS FILE EXIST? =>  FILE_NOT_FOUND
+______________________________________________________
+
+SUCCESS_FIRST_ARG 	 First argument [ISEXIST]	 First letter is I
+
+ WAY TO SEARCH e:\PROG\LR1_U_TEST\delTests\delete.2.destroy.exe	
+ IS FILE EXIST? =>  FILE_NOT_FOUND
+______________________________________________________
+
+SUCCESS_FIRST_ARG 	 First argument [ISEXIST]	 First letter is I
+
+ WAY TO SEARCH e:\PROG\LR1_U_TEST\delTests\Delete.3.destroy.exe	
+ IS FILE EXIST? =>  FILE_NOT_FOUND
+______________________________________________________
+
+SUCCESS_FIRST_ARG 	 First argument [ISEXIST]	 First letter is I
+
+ WAY TO SEARCH e:\PROG\LR1_U_TEST\delTests\DELIM.destroy.exe	
+ IS FILE EXIST? =>  FILE_EXISTS
 ______________________________________________________
 
